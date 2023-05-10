@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @katietemp
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Python, Java, and C
 
 <!---
 katietemp/katietemp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
